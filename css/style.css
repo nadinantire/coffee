@@ -90,8 +90,10 @@ a:hover {
     outline: none
 }
 .size{
-    width: 10%;
-    height: 10%;
+    width: 100px;
+}
+.footerimg{
+    width: 200px;
 }
 
 /* //Reset Code */
