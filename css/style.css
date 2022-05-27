@@ -515,7 +515,7 @@ h4.aboutright.about-right-2 {
 /* //about */
 /* stats */
 .middlesection-agile {
-    background: linear-gradient(#ffc845, #fe3859);
+    background-image: url('images/background');
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
